@@ -1,0 +1,342 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #1f1b3a;
+    text-align: center;
+    padding: 20px;
+    margin: 0px;
+}
+
+.violet-pink-combo{
+    font-family: 'Open Sans', sans-serif;
+    background: linear-gradient(
+        to bottom,
+        #4e00f6,
+        #7400cf,
+        #cf006f
+    ); 
+    font-size: 1.6rem;
+    font-weight: 470;
+    line-height: 1.7;
+    color: white;
+    border: 2px solid #df2afa;
+    border-radius: 12px;
+    padding: 16px;
+    margin: 16px auto;
+    width: 100%;      
+    box-shadow:
+        0 0 6px #ff2fdc,
+        0 0 14px #ff4fd8;
+        ;
+}
+
+
+
+
+}
+
+.home-image-2 {
+      
+        margin: 20px 0
+    display: inline-block;  
+    margin: 0 15px;     
+    vertical-align: middle; 
+    max-width:150px;
+    margin: -20px auto 100px auto;
+     
+}
+
+.nav a {
+    display: inline-block;       
+    padding: 10px 20px;          
+    background-color: #5f2eea; 
+    color: white;    
+    margin: 10px 5px;   
+    margin-rigt:25px;   
+    text-decoration: none;      
+    border-radius: 8px;       
+    box-shadow: 0 0 6px #ff2fdc, 0 0 12px #ff4fd8; 
+    transition: 0.3s;             
+    text-align: center;       
+}
+
+.nav a:hover {
+    background-color: #7a3fff;   
+    box-shadow: 0 0 10px #ff2fdc, 0 0 20px #ff4fd8;
+}
+
+h2 {
+    display: inline-block;
+    background-color: #5f2eea;
+    color: #f5efff; 
+    text-align: center;
+    font-size: 1.8rem;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-right: 80px;  
+    margin-left:80px;              
+    box-shadow: 0 0 6px #ff2fdc, 0 0 12px #ff4fd8; 
+    padding: 10px;
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+h5 {
+    background: radial-gradient(
+        circle,
+        #8500cf,
+        #5f2eea,
+        #cf00a2
+    );  
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 1.2rem;
+    color: #f5efff;
+    text-align: center;
+    padding: 30px 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 6px #ff2fdc, 0 0 14px #ff4fd8; 
+    max-width: 700px;
+    margin: 0 auto 30px auto; 
+    font-weight: 600;
+}
+
+
+
+
+
+
+.about-me{
+    font-family: 'Open Sans', sans-serif;
+
+ background: linear-gradient(
+        to bottom,
+   #4e00f6,
+        #7400cf,
+        #cf006f
+      ); 
+  font-size: 1.3rem;
+  font-weight: 470;
+  line-height: 1.7;
+  color: #ff2fdc;
+  
+  display:inline-block;
+    border: 2px solid #df2afa;
+    border-radius: 12px;
+    padding: 5px;
+    margin: 16px auto;
+    width: 90%;      
+    box-shadow:
+        0 0 6px #ff2fdc,
+        0 0 14px #ff4fd8;
+
+}
+
+.Introduction {
+    background: radial-gradient(
+        circle,
+        #8500cf,
+        #5f2eea,
+        #cf00a2
+    );  
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 1.2rem;
+    color: #f5efff;
+    text-align: center;
+    padding: 30px 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 6px #ff2fdc, 0 0 14px #ff4fd8; 
+    max-width: 900px;
+    margin: 0 auto 30px auto; 
+    font-weight: 400;
+
+}
+
+.img{
+    max-width:100px;
+    display: block;         
+    margin: 0 auto 20px auto;  
+
+    border-radius: 8px;
+}
+.w3-link {
+    color: red;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.w3-link:hover {
+    color: #7a3fff; 
+}
+
+
+.My-activities{
+    font-family: 'Open Sans', sans-serif;
+
+ background: linear-gradient(
+        to bottom,
+   #4e00f6,
+        #7400cf,
+        #cf006f
+      ); 
+  font-size: 1.3rem;
+  font-weight: 470;
+  line-height: 1.7;
+  color: #ff2fdc;
+  
+  display:inline-block;
+    border: 2px solid #df2afa;
+    border-radius: 12px;
+    padding: 5px;
+    margin: 16px auto;
+    width: 90%;      
+    box-shadow:
+        0 0 6px #ff2fdc,
+        0 0 14px #ff4fd8;
+}
+
+.activity-image{
+    max-width: 80%;      
+    max-height: 400px;   
+    width: auto;        
+    height: auto;         
+    display: block;       
+    margin: 10px auto;    
+    border-radius: 8px;   
+    box-shadow: 0 0 6px #ff2fdc, 0 0 12px #ff4fd8; 
+}
+
+.activity-list {
+    background: linear-gradient(
+        to bottom,
+        #a400ff,
+        #ff00dc,
+      #cf00a2
+    );
+    color:white;
+    text-align: center;
+    font-size: 1.8rem;               
+    box-shadow: 0 0 6px #ff2fdc, 0 0 12px #ff4fd8; 
+    padding:10px;
+    transition: 0.3s
+}
+
+.activity table {
+    border-collapse: collapse;
+    width: 100%;
+    text-align: left;
+}
+
+
+. activity {
+    padding: 8px 12px;
+    border-bottom: 1px solid #ff2fdc; 
+    color: #f5efff; 
+}
+
+. activity-th {
+    font-weight: 600;
+}
+
+. activity-tr:hover-td {
+    background-color: rgba(255, 47, 220, 0.1); 
+}
+
+.exercise-1 {
+background: radial-gradient(
+        circle,
+        #8500cf,
+        #5f2eea,
+        #cf00a2
+    );  
+    font-family:  sans-serif;
+    font-size: 1.1rem;
+    color: #f5efff;
+    text-align: center;
+    padding: 5px 5px;
+    border-radius: 10px;
+    box-shadow: 0 0 6px #ff2fdc, 0 0 14px #ff4fd8; 
+    max-width: 700px;
+    margin: 0 auto 10px auto; 
+   
+    font-weight: 100;
+
+}
+img{
+    max-width:250px;
+    display: block;         
+    margin: 0 auto 20px auto;  
+
+    border-radius: 8px;
+})
+
+
+.contact-information {
+ 
+
+    background: radial-gradient(
+        circle,
+        #8500cf,
+        #5f2eea,
+        #cf00a2
+        );
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 0 6px #ff2fdc, 0 0 12px #ff4fd8;
+    max-width: 500px;
+    margin: 30px auto;
+    color: white;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+}
+
+.contact-information h3 {
+    color: #5f2eea;
+    margin-bottom: 25px;
+    font-size: 1.8rem;
+    text-shadow: 0 0 5px #ff2fdc;
+}
+
+.contact-information p {
+
+    margin: 20px 0;
+    font-size: 1.2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    
+ 
+}
+
+.contact-link {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 8px 15px;
+    border-radius: 8px;
+    background: linear-gradient(
+        to bottom,
+        #2b58ff,
+        #2600ff,
+        #4063ff
+    ); 
+    transition: all 0.3s ease;
+    border: 1px solid #ff2fdc;
+}
+
+.contact-link:hover {
+    color: blue;
+    background-color: #5    box-shadow: 0 0 10px #ff2fdc, 0 0 20px #ff4fd8;f2eea;
+
+    transform: scale(1.05box-shadow: 0 0 6px #ff2fdc, 0 0 12px #ff4fd8; 
+    transition: 0.3s;             
+    text-align: center;    er;    
+}
+
+.phone-number {
+    color: #ff2fdc;
+    font-weight: bold;
+    padding: 5px 10px;
+    background-color: rgba(95, 46, 234, 0.2);
+    border-radius: 5px;
+}
+}
